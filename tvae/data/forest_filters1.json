@@ -1,0 +1,10 @@
+{
+    "filters": [
+            {
+                "type":"range_full",
+                "att": "Elevation",
+                "min_val": 2500,
+                "max_val": 2700
+            }
+    ]
+}

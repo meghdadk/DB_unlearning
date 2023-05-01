@@ -1,0 +1,44 @@
+{
+    "columns": [
+        {
+            "name": "Record Type",
+            "type": "categorical"
+        },
+        {
+            "name": "Registration Class",
+            "type": "categorical"
+        },
+        {
+            "name": "State",
+            "type": "categorical"
+        },
+        {
+            "name": "County",
+            "type": "categorical"
+        },
+        {
+            "name": "Body Type",
+            "type": "categorical"
+        },
+        {
+            "name": "Fuel Type",
+            "type": "categorical"
+        },
+        {
+            "name": "Color",
+            "type": "categorical"
+        },
+        {
+            "name": "Scofflaw Indicator",
+            "type": "categorical"
+        },
+        {
+            "name": "Suspension Indicator",
+            "type": "categorical"
+        },
+        {
+            "name": "Revocation Indicator",
+            "type": "categorical"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "columns": [
+        {
+            "name": "Elevation",
+            "type": "continuous"
+        },
+        {
+            "name": "Aspect",
+            "type": "continuous"
+        },
+        {
+            "name": "Slope",
+            "type": "continuous"
+        },
+        {
+            "name": "Horizontal_Distance_To_Hydrology",
+            "type": "continuous"
+        },
+        {
+            "name": "Vertical_Distance_To_Hydrology",
+            "type": "continuous"
+        },
+        {
+            "name": "Horizontal_Distance_To_Roadways",
+            "type": "continuous"
+        },
+        {
+            "name": "Hillshade_9am",
+            "type": "continuous"
+        },
+        {
+            "name": "Hillshade_Noon",
+            "type": "continuous"
+        },
+        {
+            "name": "Hillshade_3pm",
+            "type": "continuous"
+        },
+        {
+            "name": "Horizontal_Distance_To_Fire_Points",
+            "type": "continuous"
+        },
+        {
+            "name": "label",
+            "type": "categorical"
+        }
+    ]
+}

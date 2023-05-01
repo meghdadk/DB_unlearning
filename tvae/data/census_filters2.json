@@ -1,0 +1,10 @@
+{
+    "filters": [
+ 	    {
+		"type":"range_selective",
+		"att": "age",
+		"min_val": 30,
+		"max_val": 35
+	    }
+    ]
+}
