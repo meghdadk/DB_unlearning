@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This repository contains the code for experimental analysis of data deletion in learned database systems. For this purpose, we study three different learned database systems: [DBEst++](https://github.com/qingzma/DBEst_MDN.git), [Naru](https://github.com/naru-project/naru.git), and TVAE(https://github.com/sdv-dev/CTGAN.git). 
+This repository contains the code for experimental analysis of data deletion in learned database systems. For this purpose, we study three different learned database systems: [DBEst++](https://github.com/qingzma/DBEst_MDN.git), [Naru](https://github.com/naru-project/naru.git), and [TVAE](https://github.com/sdv-dev/CTGAN.git). 
 
 ## Setup
 
