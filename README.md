@@ -10,9 +10,11 @@ This repository contains the code for experimental analysis of data deletion in 
 
 To start installing the packages, run the environmental setup for each application. 
 
+```bash
 bash ./environments/dbest/setup.sh
 bash ./environments/naru/setup.sh
 bash ./environments/tvae/setup.sh
+```
 
 
 ## Datasets
