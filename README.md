@@ -25,7 +25,7 @@ bash ./environments/tvae/setup.sh
 
 ## Datasets
 
-We use three real-world datasets for our evaluations: Census, Forest, and DMV.
+We use three real-world datasets for our evaluations: Census, Forest, and DMV. You can download the versions we use from [here](https://drive.google.com/file/d/1bWbgxpyyITYMWF7LBnWHut7EKIqadxyY/view?usp=share_link)
 
 ## Experiments
 
