@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This repository contains the code for experimental analysis of data deletion in learned database systems. For this purpose, we study three different learned database systems: 
+This repository contains the code for experimental analysis of data deletion in learned database systems. For this purpose, we study four different learned database systems: 
 
 [DBEst++](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper15.pdf): Approximate Query Processing using Mixture Density Networks,
 
