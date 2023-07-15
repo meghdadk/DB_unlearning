@@ -1,0 +1,9 @@
+{
+    "filters": [
+            {
+                "type":"equality",
+                "att": "marital_status",
+                "val": " Divorced"
+            }
+    ]
+}
