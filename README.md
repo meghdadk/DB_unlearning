@@ -12,6 +12,9 @@ This repository contains the code for experimental analysis of data deletion in 
 
 [TVAE](https://proceedings.neurips.cc/paper_files/paper/2019/file/254ed7d2de3b23ab10936522dd547b78-Paper.pdf): Data Generation using Tabular Variational AutoEncoders
 
+Classification: Tabular data classification using deep neural networks such as ResNet. 
+
+
 ## Setup
 
 To start installing the packages, run the environmental setup for each application. 
@@ -20,6 +23,7 @@ To start installing the packages, run the environmental setup for each applicati
 bash ./environments/dbest/setup.sh
 bash ./environments/naru/setup.sh
 bash ./environments/tvae/setup.sh
+bash ./environments/tcls/setup.sh
 ```
 
 
