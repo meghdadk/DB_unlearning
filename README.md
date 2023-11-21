@@ -1,4 +1,4 @@
-# Machine Unlearning For Learned Databases
+# Machine Unlearning in Learned Databases: An Experimental Analysis
 
 [![License: Apache](https://img.shields.io/badge/License-Apache-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
